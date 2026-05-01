@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Angel 
 
-<!--
-**Angelica-cloud/Angelica-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## About Me
+- Beginner developer learning python
+- Currently building small projects
+- Exploring Web3 and digital skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Python Calculator (my first project)
+
+## Goals
+- Build consistent coding skills
+- Create real-world projects
+- Grow my dev portfolio
+
+## Fun fact
+I like learning things step-by-step and improving slowly but steadily.
