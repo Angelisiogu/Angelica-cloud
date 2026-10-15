@@ -37,5 +37,5 @@ A beginner Python project, later upgraded into a web application using Flask and
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/angel-isiogu-040757249)
-- [GitHub](https://github.com/Angelica-cloud)
+- [GitHub]https://github.com/Angelisiogu
 
